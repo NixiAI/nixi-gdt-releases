@@ -1,14 +1,14 @@
 {
-  "rolloutPercent": 100,
+  "msiSha256": "a66cb97f54924900a68b5ecaa47fb4c4aa1590d051975a41c376edd9e7d03c1e",
+  "releasedAtUtc": "2026-09-21T14:28:18Z",
   "releaseNotes": "See the GitHub Release page for the full change list.",
-  "latestVersion": "1.1.0",
-  "msiSha256": "932d15aef64db158d6fc58a30a6a33770d2078d1d3aa4c47a2f70392fb1d16a0",
   "criticalSecurityUpdate": false,
-  "msiUrl": "https://github.com/NixiAI/nixi-gdt-releases/releases/download/windows-v1.1.0/NixiGdtConnector-1.1.0.msi",
-  "releaseNotesUrl": "https://github.com/NixiAI/nixi-gdt-releases/releases/tag/windows-v1.1.0",
+  "msiUrl": "https://github.com/NixiAI/nixi-gdt-releases/releases/download/windows-v1.2.0/NixiGdtConnector-1.2.0.msi",
   "minSupportedVersion": "1.0.0",
-  "releasedAtUtc": "2026-09-09T10:24:55Z",
+  "latestVersion": "1.2.0",
   "msiSizeBytes": 46462498,
-  "signature": "B3GTBDyMGT5qN2YqBOfx/IW3QDD9wqsCZL/rAJpRNyUowVNkcwJARLLrFph0BmpRX+NSrk6vvArfbbKgUzRXBQ==",
+  "releaseNotesUrl": "https://github.com/NixiAI/nixi-gdt-releases/releases/tag/windows-v1.2.0",
+  "rolloutPercent": 100,
+  "signature": "J3FtQujlQMq43QFwwTgbJT8D0yTR1Kf4z5+nNiWXC4Y8O301uQHQfrE0iy1xwLPz6K0eBGdg2V5Wd55qFja5Ag==",
   "signatureAlgorithm": "Ed25519"
 }
